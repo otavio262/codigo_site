@@ -1,0 +1,47 @@
+table{
+    width: 100%;
+    height: 100vh;
+}
+#linha1{
+    background-color: rgb(92, 80, 29);
+    width: 20%;
+    height: 4vh;
+}
+
+#imglogo{
+    width: 1%;
+    height: 1vh;
+}
+svg {
+    width: 20%;
+    height: 50px
+}
+#img{
+     width: 1%;
+     height: 1vh;
+     
+}
+
+    
+
+
+.preco{
+    font-size: 32px;
+    color: red;
+}
+
+.carrinho-container{
+    vertical-align: middle;
+}
+
+.login-texto{
+    font-size: 32px;
+}
+
+.botao-compra{
+    width: 50px;
+    display: flex;
+    border: 1px solid;
+    border-radius: 20px;
+
+}
